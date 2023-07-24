@@ -1,2 +1,2 @@
-# torch-image-classification
-Classic models for image classification task.
+# torch-implementatino
+Classic models for some tasks.
